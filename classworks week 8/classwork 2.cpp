@@ -1,0 +1,1 @@
+//Write functions as a call
